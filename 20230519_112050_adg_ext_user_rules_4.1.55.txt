@@ -1,0 +1,7 @@
+uukanshu.com###at4-share2 > a.at-share-btn.at-svc-compact:nth-child(4) > span.at-icon-wrapper:last-child
+uukanshu.com###at4-share
+uukanshu.com##div.addthis-smartlayers.addthis-smartlayers-desktop:nth-child(17)
+github.com#?#span:contains(大陆修宪):nth-ancestor(4)
+github.com#?#span:contains(平反六四):nth-ancestor(4)
+github.com#?#span:contains(/王沪宁/):nth-ancestor(4)
+github.com#?#span:contains(Dimples1337):nth-ancestor(7)
